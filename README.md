@@ -14,8 +14,10 @@ You need to install the required external libraries using pip. Open a terminal o
 
 bash
 Copy code
+
 -- pip install cryptography
 -- pip install colorama
+
 Running the Script:
 Download the Script:
 --------------------------------------------------------------------------------------------------------------
